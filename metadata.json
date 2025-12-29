@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn to ATS CV Converter",
+  "description": "Transform your LinkedIn profile text into a professional, ATS-optimized CV using Gemini AI reasoning and structured data extraction.",
+  "requestFramePermissions": []
+}
